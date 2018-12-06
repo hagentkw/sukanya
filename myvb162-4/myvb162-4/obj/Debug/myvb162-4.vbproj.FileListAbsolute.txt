@@ -1,0 +1,12 @@
+c:\users\acer\documents\visual studio 2017\Projects\myvb162-4\myvb162-4\bin\Debug\myvb162-4.exe.config
+c:\users\acer\documents\visual studio 2017\Projects\myvb162-4\myvb162-4\bin\Debug\myvb162-4.exe
+c:\users\acer\documents\visual studio 2017\Projects\myvb162-4\myvb162-4\bin\Debug\myvb162-4.pdb
+c:\users\acer\documents\visual studio 2017\Projects\myvb162-4\myvb162-4\bin\Debug\myvb162-4.xml
+c:\users\acer\documents\visual studio 2017\Projects\myvb162-4\myvb162-4\obj\Debug\myvb162-4.vbprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2017\Projects\myvb162-4\myvb162-4\obj\Debug\myvb162_4.frmLab1.resources
+c:\users\acer\documents\visual studio 2017\Projects\myvb162-4\myvb162-4\obj\Debug\myvb162_4.Resources.resources
+c:\users\acer\documents\visual studio 2017\Projects\myvb162-4\myvb162-4\obj\Debug\myvb162-4.vbproj.GenerateResource.Cache
+c:\users\acer\documents\visual studio 2017\Projects\myvb162-4\myvb162-4\obj\Debug\myvb162-4.exe
+c:\users\acer\documents\visual studio 2017\Projects\myvb162-4\myvb162-4\obj\Debug\myvb162-4.xml
+c:\users\acer\documents\visual studio 2017\Projects\myvb162-4\myvb162-4\obj\Debug\myvb162-4.pdb
+c:\users\acer\documents\visual studio 2017\Projects\myvb162-4\myvb162-4\obj\Debug\myvb162_4.frmLab2.resources
